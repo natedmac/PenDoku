@@ -1,0 +1,7 @@
+base   PenDoku
+author natedmac & gr3yR0n1n
+email  
+date   2016-01-04
+name   PenDoku
+desc   Parses output from different pentest tools and creates pages for hosts
+url    http://github.com/natedmac/PenDoku
